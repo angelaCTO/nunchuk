@@ -1,0 +1,3 @@
+@import "bootstrap/bootstrap-custom";
+@import "susy"; // Global Susy Grid
+$susy: ( columns: 12, container: 1200px, gutters: 1/4, global-box-sizing: border-box, debug: (image: hide) );
