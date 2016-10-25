@@ -13,7 +13,7 @@ npm v nunchuk dist.tarball | xargs curl | tar -xz
 ```
 -   move nunchuk's folder contents to root directory.
 ```shell
-mv nuchuck-1.0.2/* .
+mv nuchuck-1.0.{current version}/* .
 ```
 -   Run NPM install to install build dependencies.
 ```shell
