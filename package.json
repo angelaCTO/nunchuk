@@ -1,0 +1,31 @@
+{
+  "name": "nunchuk",
+  "version": "1.0.2",
+  "description": "Nunchuck is collection of utilities and code generators used to make web development faster.",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwogrady/nunchuk.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "jwogrady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwogrady/nunchuk/issues"
+  },
+  "homepage": "https://github.com/jwogrady/nunchuk#readme",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.1.1",
+    "susy": "^2.2.12"
+  }
+}
