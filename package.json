@@ -1,6 +1,6 @@
 {
   "name": "nunchuk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Nunchuck is collection of utilities and code generators used to make web development faster.",
   "main": "Gulpfile.js",
   "scripts": {
