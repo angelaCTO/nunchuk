@@ -1,11 +1,9 @@
 var gulp = require('gulp'),
   sass = require('gulp-sass'),
   autoprefixer = require('gulp-autoprefixer'),
-  sourcemaps = require('gulp-sourcemaps'),
-  concat = require('gulp-concat');
+  sourcemaps = require('gulp-sourcemaps');
 
-var url = 'http://localhost:1313',
-    assets = './assets/',
+var assets = './assets/',
     css = 'static/css/';
     js = 'static/js/';
 
